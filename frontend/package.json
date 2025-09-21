@@ -1,0 +1,40 @@
+{
+  "name": "linea-blanca-frontend",
+  "version": "1.0.0",
+  "description": "Frontend para ecommerce de línea blanca",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "axios": "^1.5.0",
+    "react-icons": "^4.11.0",
+    "styled-components": "^6.0.7",
+    "react-query": "^3.39.3",
+    "react-hot-toast": "^2.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1",
+    "@types/react": "^18.2.22",
+    "@types/react-dom": "^18.2.7"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://localhost:3000"
+}
