@@ -98,7 +98,7 @@ const products = [
     features: ["Smart System", "5 programas preestablecidos", "Jarra de 64 oz", "Acero inoxidable"],
     rating: 4.8,
     stock: 14
-  }
+  },
   {
     id: 9,
     name: "TV 100 pulgadas LG 4K OLED",
