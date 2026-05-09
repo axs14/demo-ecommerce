@@ -99,6 +99,18 @@ const products = [
     rating: 4.8,
     stock: 14
   }
+  {
+    id: 9,
+    name: "TV 100 pulgadas LG 4K OLED",
+    price: 2500.99,
+    category: "Televisores",
+    brand: "LG",
+    image: "/images/tv-lg-4k-oled.jpg",
+    description: "TV 100 pulgadas LG 4K OLED",
+    features: ["4K", "OLED", "100 pulgadas", "HDR", "Smart TV"],
+    rating: 4.8,
+    stock: 2
+  }
 ];
 
 // Obtener todos los productos
